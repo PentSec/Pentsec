@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffreys Aka Jeff.</h1>
 <h3 align="center">I am an amateur programmer whose hobby is to learn every day any kind of programming language.</h3>
 <p align="center">
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
+  <a href="https://discord.gg/YG8egbU5Ec" target="_blank">
     <img align="center" src="https://lanyard.cnrad.dev/api/284896471210393600" />
   </a>
 </p>
