@@ -6,7 +6,7 @@
 
 ## What are my skills?
 - **💻 Frontend**
-  - **Programing:** `JavaScript`
+  - **Programing:** `TypeScript` • `JavaScript`
   - **Frameworks/library:** `React` • `Electron`
   - **UITools:** `NextUI` • `DaisyUI` • `MUI`
   - **UtilsL:** `TailwindCSS` • `React-icons `
