@@ -8,7 +8,7 @@
 - **💻 Frontend**
   - **Programing:** `TypeScript` • `JavaScript`
   - **Frameworks/library:** `React` • `Electron`
-  - **UITools:** `NextUI` • `DaisyUI` • `MUI`
+  - **UITools:** `HeroUI` • `DaisyUI` • `MUI`
   - **UtilsL:** `TailwindCSS` • `React-icons `
 - **📡 backend**
   - **Programing:** `NodeJS` • `JavaScript`
