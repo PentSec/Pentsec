@@ -28,7 +28,7 @@
 <a href="https://twitter.com/__j3ff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__j3ff_" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jeffreysfuenmayor_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeffreysfuenmayor_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Sitoz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sitoz1" height="30" width="40" /></a>
-<a href="https://discord.gg/hqZP9YMhPj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hqZP9YMhPj" height="30" width="40" /></a>
+<a href="https://discord.gg/fUw5C6tcZs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hqZP9YMhPj" height="30" width="40" /></a>
 </p>
 
 <br/>
